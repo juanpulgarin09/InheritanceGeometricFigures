@@ -14,5 +14,12 @@
       <FileName>Square.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="GeometricFigures.Backend.Circle">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAACAAEAAAAQA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
