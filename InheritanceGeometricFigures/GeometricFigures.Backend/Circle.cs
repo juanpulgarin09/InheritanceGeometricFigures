@@ -13,7 +13,7 @@ public class Circle : GeometricFigure
     public double R
     {
         get => _r;
-        set => _r = value;
+        set => _r = ValidateR(value);
     }
 
     public override double GetArea() => Math.PI * _r * _r;
